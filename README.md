@@ -40,6 +40,11 @@ This is a simple BMI (Body Mass Index) calculator 💡 that allows users to inpu
 
 Your BMI: 25.68  
 Status: Overweight
+<img width="1347" height="596" alt="Image" src="https://github.com/user-attachments/assets/e664db65-f306-48ca-ac92-6d299a3397ff" />
+
+
+
+<img width="1328" height="622" alt="Image" src="https://github.com/user-attachments/assets/eba9a7fe-ebec-4fb3-860d-35eae786573a" />
 
 🛠 Installation
 
