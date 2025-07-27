@@ -16,6 +16,7 @@ This is a simple BMI (Body Mass Index) calculator 💡 that allows users to inpu
 3️⃣ The calculator will display:
 
   🔹 Your calculated BMI
+  
   🔹 Your weight status:
     - Underweight 🦴
     - Normal 💪
@@ -23,6 +24,7 @@ This is a simple BMI (Body Mass Index) calculator 💡 that allows users to inpu
     - Obese 🚨
     
 📊 BMI Categories
+
     Underweight: BMI < 18.5
     Normal weight: BMI 18.5 - 24.9
     Overweight: BMI 25 - 29.9
