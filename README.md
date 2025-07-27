@@ -1,4 +1,5 @@
 🧮 BMI Calculator - README
+
 🔍 Overview
 
 This is a simple BMI (Body Mass Index) calculator 💡 that allows users to input their weight and height to calculate their BMI and determine their weight status category 🏷️.
